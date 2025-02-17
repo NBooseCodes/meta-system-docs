@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Flows
-We described the flows in [this page](../../architecture/flows), we strongly recommend you to read it before diving in this topic.
+We described the flows in [this page](docs/api-docs/architecture/flows.md), we strongly recommend you to read it before diving in this topic.
 
 ---
 
